@@ -1,0 +1,6 @@
+C:\Users\Tanvi\Desktop\PreWork\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Tanvi\Desktop\PreWork\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Tanvi\Desktop\PreWork\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Tanvi\Desktop\PreWork\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Tanvi\Desktop\PreWork\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Tanvi\Desktop\PreWork\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
